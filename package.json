@@ -1,6 +1,6 @@
 {
     "name": "eslint-plugin-fsd-rules-by-russell",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "description": "plugin for fsd rules",
     "keywords": [
         "eslint",
